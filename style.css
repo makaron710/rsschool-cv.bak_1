@@ -1,0 +1,39 @@
+body {
+  width: 96%;
+  max-width: 991px;
+  margin: auto;
+  font-family: Helvetica,Arial,sans-serif;
+}
+h1 {
+  color: #6470e0;
+}
+ol li {
+  margin-bottom: 10px;
+}
+ul li:first-of-type {
+  margin-top: 10px;
+}
+li {
+  line-height: 1.4;
+  opacity: 0.95;
+}
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
+a:visited {
+  color: #0366d6;
+}
+a:hover {
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  line-height: 2;
+}
+footer a {
+  display: block;
+}
+footer a img {
+  max-width: 100px;
+}
